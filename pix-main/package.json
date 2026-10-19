@@ -1,7 +1,7 @@
 {
-  "name": "gerador-qrcode-poker-de-quinta",
+  "name": "gerador-qrcode-poker-newsoccer",
   "description": "Gerador de QRCodes para pagamentos com PIX",
-  "author": "Daniel de Oliveira (Harmew) <dann.ew@outlook.com>",
+  "author": ":",
   "version": "1.0.0",
   "keywords": [
     "pix",
